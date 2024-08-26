@@ -28,7 +28,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![RESTfulAPIs](https://img.shields.io/badge/-REST-APIs-333333?style=flat)
+![RESTfulAPIs](https://img.shields.io/badge/-RESTAPIs-333333?style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-blue?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
