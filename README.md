@@ -22,10 +22,13 @@
 I'm a passionate software developer with a knack for problem-solving and a love for creating impactful solutions. Whether it's front-end, back-end, or anything in between, I enjoy diving into all aspects of development.
 
 ## 🛠️ Technologies & Tools
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoSize=auto)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![RESTfulAPIs](https://img.shields.io/badge/-REST-APIs-333333?style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-blue?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
